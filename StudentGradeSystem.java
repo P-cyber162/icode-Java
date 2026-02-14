@@ -4,12 +4,6 @@ public class StudentGradeSystem {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
-        // Student index numbers
-        String[] indexNumbers = {
-            "100221107", "100221107", "100221107", "100221307", "100221407",
-            "100221507", "100221607", "100221707", "100221807", "100221907",
-            "100222107", "100222207", "100222307", "100222407", "100224407"
-        };
         
         int numStudents = indexNumbers.length;
         int[] midSem = new int[numStudents];
