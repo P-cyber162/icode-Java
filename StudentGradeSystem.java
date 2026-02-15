@@ -34,7 +34,7 @@ public class StudentGradeSystem {
             System.out.print("Enter End of Semester Exam mark (out of 100): ");
             exams[i] = input.nextInt();
             
-            System.out.println();
+            System.out.println()
         }
         
         // Calculate final marks and grades
