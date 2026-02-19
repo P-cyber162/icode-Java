@@ -4,7 +4,7 @@ public class index {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int radius=2;
-        double area, circumferece;
+        double area, circumferece
         
         System.out.println("========AREA OF A CIRCLE=========");
         System.out.println("==========================");
