@@ -19,6 +19,6 @@ public class index {
         System.out.println("Area of the circle is: " + area);
         System.out.println("Circumference of the circle is: " + circumferece);
 
-        input.close()
+        input.close();
     }
 };
