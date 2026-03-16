@@ -15,4 +15,4 @@ public class age {
         System.out.println("Student :" + isStudent);
         System.out.println("-------------------------------------------");
     }
-}
+};
