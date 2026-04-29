@@ -21,5 +21,5 @@ public class guessingGame {
         for(int i=0; i<= average; i++) {
             factorial *= i;
         };
-    }
+    };
 }
