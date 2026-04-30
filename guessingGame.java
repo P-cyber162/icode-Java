@@ -22,4 +22,4 @@ public class guessingGame {
             factorial *= i;
         };
     };
-}
+};
